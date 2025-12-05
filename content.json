@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "joys": [
+    {
+      "id": "1",
+      "title": "Morning Coffee",
+      "description": "The best part of waking up is a fresh brew.",
+      "photoUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085",
+      "videoUrl": null,
+      "tags": ["SENSORY", "TASTING", "COMFORT"]
+    },
+    {
+      "id": "2",
+      "title": "Ocean Waves",
+      "description": "Watching the waves crash.",
+      "photoUrl": null,
+      "videoUrl": "https://res.cloudinary.com/demo/video/upload/v1/samples/sea-turtle.mp4",
+      "tags": ["NATURE", "WATER", "CALMNESS"]
+    },
+    {
+      "id": "3",
+      "title": "Forest Walk",
+      "description": "A walk through the pine trees.",
+      "photoUrl": "https://images.unsplash.com/photo-1448375240586-dfd8d395ea6c",
+      "videoUrl": "https://res.cloudinary.com/demo/video/upload/v1/samples/elephants.mp4",
+      "tags": ["NATURE", "WALKING", "MINDFULNESS"]
+    }
+  ]
+}
