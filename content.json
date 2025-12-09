@@ -5,8 +5,8 @@
       "id": "joy_1",
       "title": "The Family Trail 1",
       "description": "Walking in rhythm with loved ones, sharing discoveries along a sun-dappled path. This unplugged time weaves connection without words, grounding everyone in the shared, simple pace of being together.",
-      "photoUrl": null,
-      "videoUrl": "family_walking_together_in_nature.mp4",
+      "photo": null,
+      "video": "family_walking_together_in_nature.mp4",
       "tags": [
         "FAMILY",
         "CONNECTION",
@@ -18,8 +18,8 @@
       "id": "joy_0",
       "title": "The Family Trail 0",
       "description": "Walking in rhythm with loved ones, sharing discoveries along a sun-dappled path. This unplugged time weaves connection without words, grounding everyone in the shared, simple pace of being together.",
-      "photoUrl": null,
-      "videoUrl": "family_walking_together_in_nature.mp4",
+      "photo": null,
+      "video": "family_walking_together_in_nature.mp4",
       "tags": [
         "FAMILY",
         "CONNECTION",
