@@ -1,14 +1,14 @@
 {
   "version": 1,
   "joys": [
-    {
-      "id": "1",
-      "title": "Morning Coffee",
-      "description": "The best part of waking up is a fresh brew.",
-      "photoUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085",
-      "videoUrl": null,
-      "tags": ["SENSORY", "TASTING", "COMFORT"]
-    },
+{
+  "id": "joy_33",
+  "title": "The Family Trail",
+  "description": "Walking in rhythm with loved ones, sharing discoveries along a sun-dappled path. This unplugged time weaves connection without words, grounding everyone in the shared, simple pace of being together.",
+  "photoUrl": null,
+  "videoUrl": "family_walking_together_in_nature.mp4",
+  "tags": ["FAMILY", "CONNECTION", "WALKING", "NATURE"]
+},
     {
       "id": "2",
       "title": "Ocean Waves",
