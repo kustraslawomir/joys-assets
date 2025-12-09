@@ -1,29 +1,30 @@
 {
   "version": 1,
   "joys": [
-{
-  "id": "joy_33",
-  "title": "The Family Trail",
-  "description": "Walking in rhythm with loved ones, sharing discoveries along a sun-dappled path. This unplugged time weaves connection without words, grounding everyone in the shared, simple pace of being together.",
-  "photoUrl": null,
-  "videoUrl": "family_walking_together_in_nature.mp4",
-  "tags": ["FAMILY", "CONNECTION", "WALKING", "NATURE"]
-},
     {
-      "id": "2",
-      "title": "Ocean Waves",
-      "description": "Watching the waves crash.",
+      "id": "joy_1",
+      "title": "The Family Trail 1",
+      "description": "Walking in rhythm with loved ones, sharing discoveries along a sun-dappled path. This unplugged time weaves connection without words, grounding everyone in the shared, simple pace of being together.",
       "photoUrl": null,
-      "videoUrl": "https://res.cloudinary.com/demo/video/upload/v1/samples/sea-turtle.mp4",
-      "tags": ["NATURE", "WATER", "CALMNESS"]
+      "videoUrl": "family_walking_together_in_nature.mp4",
+      "tags": [
+        "FAMILY",
+        "CONNECTION",
+        "WALKING",
+        "NATURE"
+      ]
     },
     {
-      "id": "3",
-      "title": "Forest Walk",
-      "description": "A walk through the pine trees.",
-      "photoUrl": "https://images.unsplash.com/photo-1448375240586-dfd8d395ea6c",
-      "videoUrl": "https://res.cloudinary.com/demo/video/upload/v1/samples/elephants.mp4",
-      "tags": ["NATURE", "WALKING", "MINDFULNESS"]
+      "id": "joy_0",
+      "title": "The Family Trail 0",
+      "description": "Walking in rhythm with loved ones, sharing discoveries along a sun-dappled path. This unplugged time weaves connection without words, grounding everyone in the shared, simple pace of being together.",
+      "photoUrl": null,
+      "videoUrl": "family_walking_together_in_nature.mp4",
+      "tags": [
+        "FAMILY",
+        "CONNECTION",
+        "WALKING",
+        "NATURE"
+      ]
     }
   ]
-}
