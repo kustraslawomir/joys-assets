@@ -1,418 +1,783 @@
-[
-  {
-    "id": "joy_01",
-    "title": "The Art of Flow",
-    "description": "Creativity is not about the final masterpiece; it is about the quiet sanctuary of the process itself. When we engage our hands in making, the noise of the world fades into the background, replaced by a rhythmic focus that heals the weary mind. It is a reminder that we all have the power to bring something new and beautiful into existence, simply by showing up and beginning.",
-    "photo": null,
-    "video": "artist_painting_on_canvas.mp4",
-    "tags": ["CREATIVITY", "SENSORY", "SOLITUDE", "FLOW", "MINDFULNESS", "SIMPLE"]
-  },
-  {
-    "id": "joy_02",
-    "title": "A Ritual of Renewal",
-    "description": "There is a profound, understated comfort in the act of being cared for by another. Sitting in the chair, feeling the weight of the cape and the methodical snip of scissors, we are allowed to simply be still. It is a moment of trust and transformation, where shedding the old layers leaves us feeling lighter, fresher, and ready to face the world again.",
-    "photo": null,
-    "video": "back_view_of_a_man_getting_a_haircut.mp4",
-    "tags": ["RITUAL", "COMFORT", "SIMPLE", "SENSORY", "TRUST", "SELF_CARE"]
-  },
-  {
-    "id": "joy_03",
-    "title": "The Power of Flow",
-    "description": "Nature moves with a relentless, effortless energy that demands nothing from us but our witness. Standing before moving water, our own internal chatter is drowned out by a sound that has existed for millennia. It reminds us that life, too, is a constant current—sometimes turbulent, sometimes smooth, but always moving forward, carrying us exactly where we need to go.",
-    "photo": null,
-    "video": "beautiful_waterfall_flowing_in_a_green_forest.mp4",
-    "tags": ["NATURE", "SENSORY", "SOLITUDE", "AWE", "PERSPECTIVE", "PEACE"]
-  },
-  {
-    "id": "joy_04",
-    "title": "The Thrill of Action",
-    "description": "There is a purity in sport that connects us deeply to our physical selves. In the split second before action, the mind goes blank, and instinct takes over. It is a celebration of what the body can do, a fleeting moment where focus, strength, and intention align perfectly to create a sense of absolute aliveness.",
-    "photo": null,
-    "video": "boy_kicking_penalty_shot_soccer.mp4",
-    "tags": ["MOVEMENT", "SIMPLE", "SENSORY", "FOCUS", "PLAY", "ENERGY"]
-  },
-  {
-    "id": "joy_05",
-    "title": "Weightless Freedom",
-    "description": "Do you remember the feeling of trying to touch the sky with your toes? Swinging is a return to a simpler time, a physical memory of freedom that lives in all of us. The rhythmic rise and fall calms the nervous system, while the rush of wind against the face whispers that, for just a moment, we can fly above it all.",
-    "photo": null,
-    "video": "boy_swinging_on_a_swing.mp4",
-    "tags": ["NOSTALGIA", "MOVEMENT", "SIMPLE", "FREEDOM", "JOY", "PLAY"]
-  },
-  {
-    "id": "joy_06",
-    "title": "The First Sip",
-    "description": "The morning coffee ritual is the anchor of the day, a small, controllable moment of luxury before the demands of life begin. It engages every sense—the warmth of the ceramic, the dark swirl of the liquid, the rich aroma rising in the steam. It is a permission slip to pause, breathe, and gather your thoughts before stepping into the arena of the day.",
-    "photo": null,
-    "video": "brewing_fresh_coffee.mp4",
-    "tags": ["RITUAL", "MORNING", "SENSORY", "TASTING", "COMFORT", "SLOW_LIVING"]
-  },
-  {
-    "id": "joy_07",
-    "title": "The Ancient Hearth",
-    "description": "Since the dawn of time, humans have gathered around the fire to find safety, warmth, and connection. The dancing flames have a hypnotic quality that draws out our stories and softens our defenses. In the glow of the firelight, silence becomes comfortable, and we are reminded that we are part of a long lineage of people seeking light in the darkness.",
-    "photo": null,
-    "video": "campfire_burning_at_night.mp4",
-    "tags": ["NATURE", "CONNECTION", "EVENING", "COMFORT", "WARMTH", "PRIMAL"]
-  },
-  {
-    "id": "joy_08",
-    "title": "Ascending the Stone",
-    "description": "Climbing is a dialogue between human will and the stubborn permanence of the earth. It demands total presence; you cannot worry about tomorrow when you are searching for a foothold for today. This singular focus clears the mind completely, replacing anxiety with the raw, tangible satisfaction of overcoming an obstacle through your own strength.",
-    "photo": null,
-    "video": "climbing_boulders_rock_climbing.mp4",
-    "tags": ["MOVEMENT", "NATURE", "SOLITUDE", "FOCUS", "RESILIENCE", "CHALLENGE"]
-  },
-  {
-    "id": "joy_09",
-    "title": "Twilight Connection",
-    "description": "As the sun dips below the horizon, the world softens, and so do we. Sharing a drink at the end of the day is a universal gesture of gratitude—a way of saying, 'We made it through.' It is a time to put down the armor of the day, lean in close, and let the warmth of connection mirror the fading warmth of the sun.",
-    "photo": null,
-    "video": "couple_hugging_drinking_wine.mp4",
-    "tags": ["CONNECTION", "EVENING", "TASTING", "ROMANTIC", "GRATITUDE", "CELEBRATION"]
-  },
-  {
-    "id": "joy_10",
-    "title": "Holding the Past",
-    "description": "In an age of scrolling screens, holding a physical photograph feels like an act of reverence. These frozen moments are tangible proof of love, laughter, and lives lived fully. Sharing them with someone else bridges the gap between who we were and who we are, weaving our individual histories into a shared tapestry of memory.",
-    "photo": null,
-    "video": "couple_looking_at_printed_photos_together.mp4",
-    "tags": ["NOSTALGIA", "CONNECTION", "SIMPLE", "MEMORY", "FAMILY", "STORYTELLING"]
-  },
-  {
-    "id": "joy_11",
-    "title": "The Rhythm of the Road",
-    "description": "There is a meditative quality to cycling—the steady rotation of the legs, the wind rushing past, the landscape unfolding at a human pace. It is a way of moving through the world that feels both active and peaceful. On two wheels, we are not just observers of the scenery; we are participants in it, feeling every hill and breeze.",
-    "photo": null,
-    "video": "cycling_through_fields_with_woman.mp4",
-    "tags": ["MOVEMENT", "NATURE", "SIMPLE", "FREEDOM", "EXPLORATION", "JOY"]
-  },
-  {
-    "id": "joy_12",
-    "title": "Weaving Tradition",
-    "description": "Decorating is not just about aesthetics; it is an act of anticipation and hope. Unpacking ornaments is like greeting old friends, each one holding a story of holidays past. This ritual marks the passage of time, transforming our ordinary living spaces into sanctuaries of light, color, and festive magic.",
-    "photo": null,
-    "video": "decorating_a_christmas_tree_with_ornaments.mp4",
-    "tags": ["SEASONAL", "RITUAL", "NOSTALGIA", "CREATIVITY", "HOME", "JOY"]
-  },
-  {
-    "id": "joy_13",
-    "title": "Comfort on a Plate",
-    "description": "Sometimes, joy is as simple as a warm meal prepared with care. Comfort food speaks a language that bypasses the mind and goes straight to the soul, offering a sense of safety and satisfaction. It reminds us that pleasure is not something to be guilty about, but a necessary nutrient for a well-lived life.",
-    "photo": null,
-    "video": "delicious_pizza_closeup.mp4",
-    "tags": ["TASTING", "COMFORT", "SIMPLE", "INDULGENCE", "SENSORY"]
-  },
-  {
-    "id": "joy_14",
-    "title": "The Third Place",
-    "description": "We all need a 'third place'—somewhere that isn't work and isn't home—where we can just be. The clinking of glasses and the hum of conversation provide a backdrop for authentic connection. Here, burdens are shared, laughter is louder, and the simple act of presence strengthens the bonds of friendship.",
-    "photo": null,
-    "video": "drinking_beer_with_friend_in_pub.mp4",
-    "tags": ["FRIENDS", "CONNECTION", "TASTING", "COMMUNITY", "RELAXATION"]
-  },
-  {
-    "id": "joy_15",
-    "title": "Solitude in the Crowd",
-    "description": "There is a unique pleasure in being alone in a public place, watching the theater of the city unfold from behind a steaming cup. It is solitude without loneliness—a feeling of being connected to the pulse of humanity while safely nestled in your own private moment of observation and reflection.",
-    "photo": null,
-    "video": "drinking_coffee_in_city_cafe.mp4",
-    "tags": ["SOLITUDE", "TASTING", "SIMPLE", "CITY_LIFE", "OBSERVATION", "MINDFULNESS"]
-  },
-  {
-    "id": "joy_16",
-    "title": "Infinite Horizon",
-    "description": "The ocean puts everything into perspective. Looking out at the endless blue and the rhythmic crash of waves, our personal anxieties seem to shrink. The sea breathes for us when we forget how, reminding us of the vastness of the world and the beautiful insignificance of our daily worries.",
-    "photo": null,
-    "video": "drone_view_of_sandy_beach.mp4",
-    "tags": ["NATURE", "SENSORY", "SOLITUDE", "AWE", "PERSPECTIVE", "CALM"]
-  },
-  {
-    "id": "joy_17",
-    "title": "Honoring the Material",
-    "description": "In a world of mass production, working with one's hands is a radical act of slow care. Feeling the grain, smelling the sawdust, and shaping something durable connects us to an ancient human lineage of makers. It teaches us patience, respect for materials, and the deep satisfaction of creating something that lasts.",
-    "photo": null,
-    "video": "elderly_carpenter_working_with_wood_in_a_workshop.mp4",
-    "tags": ["CREATIVITY", "SENSORY", "RITUAL", "CRAFTSMANSHIP", "PATIENCE", "FOCUS"]
-  },
-  {
-    "id": "joy_18",
-    "title": "Steps Taken Together",
-    "description": "A walk in nature is the best medicine for a family. Without the distraction of screens or chores, conversations can meander as freely as the path. It is in these quiet, side-by-side moments that the deepest bonds are forged, grounded in the simple rhythm of moving forward together.",
-    "photo": null,
-    "video": "family_walking_together_in_nature.mp4",
-    "tags": ["FAMILY", "NATURE", "WALKING", "CONNECTION", "PEACE", "BONDING"]
-  },
-  {
-    "id": "joy_19",
-    "title": "Greeting the Day",
-    "description": "The act of opening a window is more than just ventilation; it is an invitation. By letting the fresh air in, we clear out the stagnant energy of yesterday and welcome the possibilities of the new morning. It is a momentary communion with the outside world, a deep breath that says, 'I am here, and I am ready.'",
-    "photo": null,
-    "video": "girl_opening_window_with_countryside_view.mp4",
-    "tags": ["NATURE", "MORNING", "SENSORY", "FRESHNESS", "RENEWAL", "HOPE"]
-  },
-  {
-    "id": "joy_20",
-    "title": "The Joy of Learning",
-    "description": "Learning is not just for the young; it is a lifelong state of curiosity. Whether studying a text or mixing paints, engaging the mind alongside a friend turns effort into play. These moments of shared focus and discovery remind us that we are always growing, always evolving, and never have to do it alone.",
-    "photo": null,
-    "video": "girls_studying_and_painting_together.mp4",
-    "tags": ["FRIENDS", "LEARNING", "CREATIVITY", "GROWTH", "CONNECTION", "PLAY"]
-  },
-  {
-    "id": "joy_21",
-    "title": "Golden Hour Reflection",
-    "description": "There is a specific quality of light at sunset that makes everything look softer, warmer, and more forgiving. Sitting with a glass of wine in this glow is an act of savoring the transition. It is a time to reflect on the day with gratitude and prepare the mind for the rest that the night promises.",
-    "photo": null,
-    "video": "glass_of_wine_with_sunset_sea_view.mp4",
-    "tags": ["EVENING", "NATURE", "TASTING", "SOLITUDE", "REFLECTION", "BEAUTY"]
-  },
-  {
-    "id": "joy_22",
-    "title": "The Refuge of Play",
-    "description": "We often dismiss gaming as distraction, but it can be a vital form of decompression. Immersing oneself in a digital world offers a safe space to solve problems, achieve mastery, and temporarily set aside the complexities of real life. It is a modern form of play that allows the adult mind to rest by engaging in a different kind of focus.",
-    "photo": null,
-    "video": "guy_playing_video_games_on_console.mp4",
-    "tags": ["SIMPLE", "SOLITUDE", "COMFORT", "PLAY", "REST", "FOCUS"]
-  },
-  {
-    "id": "joy_23",
-    "title": "Sweet Simplicity",
-    "description": "To eat an ice cream cone is to be completely in the moment—you have to pay attention before it melts. It evokes a visceral nostalgia for childhood summers, reminding us that the best pleasures in life are often fleeting, messy, and incredibly sweet. It is a small celebration of now.",
-    "photo": null,
-    "video": "little_girl_eating_ice_cream.mp4",
-    "tags": ["TASTING", "SIMPLE", "NOSTALGIA", "JOY", "SUMMER", "CHILDHOOD"]
-  },
-  {
-    "id": "joy_24",
-    "title": "Roots and Legacy",
-    "description": "Looking at the faces of those who came before us is a grounding experience. It places us within a larger narrative, reminding us that we are the continuation of a story that started long ago. In their eyes, we see reflections of ourselves, and in their history, we find the strength of our own roots.",
-    "photo": null,
-    "video": "looking_at_old_grandparent_photos.mp4",
-    "tags": ["NOSTALGIA", "FAMILY", "CONNECTION", "HISTORY", "IDENTITY", "LOVE"]
-  },
-  {
-    "id": "joy_25",
-    "title": "Alchemy of the Kitchen",
-    "description": "Baking is a kind of everyday magic—taking simple, humble ingredients and transforming them into something golden and nourishing. It requires patience, precision, and a willingness to get your hands messy. The kitchen becomes a sanctuary where we can create warmth and sustenance for the people we love.",
-    "photo": null,
-    "video": "man_baking_pastry_in_kitchen.mp4",
-    "tags": ["CREATIVITY", "COMFORT", "SENSORY", "HOME", "GIVING", "PATIENCE"]
-  },
-  {
-    "id": "joy_26",
-    "title": "Iron Therapy",
-    "description": "There is clarity in the iron. When life feels complicated and abstract, lifting weight is simple, tangible, and true. The resistance we face in the gym builds more than just muscle; it builds the mental resilience to handle the heavy loads we carry in our daily lives. It is an act of honoring the vessel we live in.",
-    "photo": null,
-    "video": "man_chest_workout_with_dumbbells.mp4",
-    "tags": ["MOVEMENT", "SOLITUDE", "SIMPLE", "STRENGTH", "DISCIPLINE", "SELF_CARE"]
-  },
-  {
-    "id": "joy_27",
-    "title": "Moving Meditation",
-    "description": "Cardio is often where the mind finally untangles itself. The rhythmic, repetitive motion of running allows thoughts to drift, process, and settle. It is a physical flushing out of stress, leaving behind a clearer head and a calmer heart. In the sweat and the breath, we find a reset button.",
-    "photo": null,
-    "video": "man_doing_cardio_on_treadmill.mp4",
-    "tags": ["MOVEMENT", "SOLITUDE", "SIMPLE", "CLARITY", "STRESS_RELIEF", "HEALTH"]
-  },
-  {
-    "id": "joy_28",
-    "title": "A Moment of Care",
-    "description": "In our busy lives, we rarely sit still and let someone else take care of us. The barbershop offer a rare, masculine form of nurturing—a place of ritual, conversation, and quiet attention. It is a reminder that we all deserve moments where we can put our responsibilities down and simply receive care.",
-    "photo": null,
-    "video": "man_getting_a_haircut_at_a_barbershop.mp4",
-    "tags": ["RITUAL", "COMFORT", "SIMPLE", "SELF_CARE", "GROOMING", "TRUST"]
-  },
-  {
-    "id": "joy_29",
-    "title": "Nourishing Bonds",
-    "description": "The kitchen is the heart of the home, and preparing food together is its heartbeat. Making juice is not just about the vitamins; it is about the laughter, the mess, and the shared activity. These small, cooperative moments teach children that health is joyful and that love often looks like peeling an orange together.",
-    "photo": null,
-    "video": "mother_making_fresh_juice_with_daughter.mp4",
-    "tags": ["FAMILY", "TASTING", "CREATIVITY", "HEALTH", "BONDING", "JOY"]
-  },
-  {
-    "id": "joy_30",
-    "title": "The Contrast of Comfort",
-    "description": "There is nothing quite like the sensation of heat in a frozen landscape. It wakes up every nerve ending, highlighting the exquisite contrast between the biting air and the soothing water. This experience reminds us that comfort is sweetest when we have known the cold, and that peace can be found even in the harshest environments.",
-    "photo": null,
-    "video": "outdoor_thermal_bath_in_winter.mp4",
-    "tags": ["SENSORY", "NATURE", "SEASONAL", "COMFORT", "CONTRAST", "WELLNESS"]
-  },
-  {
-    "id": "joy_31",
-    "title": "Preparing for Rest",
-    "description": "The ritual of drawing a bath is a signal to the body that the working day is done. The sound of running water, the rising steam, and the scent of bubbles create a sensory bridge from 'doing' to 'being.' It is an act of deliberate deceleration, creating a private space where the only goal is to soften.",
-    "photo": null,
-    "video": "preparing_bubble_bath.mp4",
-    "tags": ["COMFORT", "RITUAL", "EVENING", "SENSORY", "SELF_CARE", "CALM"]
-  },
-  {
-    "id": "joy_32",
-    "title": "Worlds Within Pages",
-    "description": "A book is a portable magic that allows us to live a thousand lives. In the quiet companionship of a story, we find empathy, adventure, and understanding without ever leaving our chair. It forces us to slow down and focus on one thing, a rare and precious discipline in a fragmented world.",
-    "photo": null,
-    "video": "reading_a_book_closeup.mp4",
-    "tags": ["SOLITUDE", "LEARNING", "SIMPLE", "IMAGINATION", "QUIET", "FOCUS"]
-  },
-  {
-    "id": "joy_33",
-    "title": "The Voice of Love",
-    "description": "Reading to a child is one of the most intimate forms of connection. It is not just about the story; it is about the physical closeness, the sound of a parent's voice, and the shared journey into imagination. These moments build a foundation of safety and wonder that a child carries with them long after the book is closed.",
-    "photo": null,
-    "video": "reading_book_to_child.mp4",
-    "tags": ["FAMILY", "RITUAL", "EVENING", "CONNECTION", "LOVE", "STORYTELLING"]
-  },
-  {
-    "id": "joy_34",
-    "title": "Submerged Serenity",
-    "description": "To submerge yourself in water is to return to a primal state of safety. The weightlessness relieves the pressure on our joints, just as the silence relieves the pressure on our minds. In the bath, time seems to suspend, allowing us to wash away not just the dirt, but the emotional residue of the day.",
-    "photo": null,
-    "video": "relaxing_bath_in_bathtub.mp4",
-    "tags": ["COMFORT", "SOLITUDE", "SENSORY", "RELAXATION", "PEACE", "WATER"]
-  },
-  {
-    "id": "joy_35",
-    "title": "Evening Gratitude",
-    "description": "The transition from day to night is a sacred threshold. Sharing it with a partner, glass in hand, turns a daily occurrence into a moment of celebration. It is a time to look at the person beside you and appreciate that, in this vast and turning world, you have found someone to witness the sunset with.",
-    "photo": null,
-    "video": "romantic_couple_drinking_wine_at_sunset.mp4",
-    "tags": ["CONNECTION", "ROMANTIC", "EVENING", "TASTING", "GRATITUDE", "INTIMACY"]
-  },
-  {
-    "id": "joy_36",
-    "title": "Above the Noise",
-    "description": "There is something magical about rooftops at night—the city lights below look like stars, and the noise of the streets hums like a distant ocean. Standing there with someone you love offers a new perspective: you are part of the world, yet held apart in your own private sanctuary. It is a moment of clarity and romance amidst the chaos.",
-    "photo": null,
-    "video": "romantic_rooftop_scene_in_city_at_night.mp4",
-    "tags": ["ROMANTIC", "EVENING", "CONNECTION", "CITY_LIFE", "PERSPECTIVE", "AWE"]
-  },
-  {
-    "id": "joy_37",
-    "title": "Unbound Joy",
-    "description": "Watch children run, and you see pure, unadulterated instinct. They don't run for fitness; they run because it feels good to move, to be fast, to be alive. Witnessing this boundless energy reminds us to reconnect with our own inner child—to find reasons to move that are rooted in joy rather than obligation.",
-    "photo": null,
-    "video": "siblings_running_joyfully_across_a_field_in_the_countryside.mp4",
-    "tags": ["FAMILY", "NATURE", "MOVEMENT", "JOY", "PLAY", "FREEDOM"]
-  },
-  {
-    "id": "joy_38",
-    "title": "Capturing the Spark",
-    "description": "Friendship is the family we choose, and time spent together is vital nourishment for the soul. Taking a photo is a way of saying, 'This moment matters.' It freezes the laughter and the light, creating a keepsake that we can return to whenever we need a reminder that we are loved and supported.",
-    "photo": null,
-    "video": "two_friends_taking_selfie_at_picnic.mp4",
-    "tags": ["FRIENDS", "NATURE", "CONNECTION", "MEMORY", "JOY", "COMMUNITY"]
-  },
-  {
-    "id": "joy_39",
-    "title": "Walking in Rhythm",
-    "description": "A walk in the woods with a dog is a lesson in presence. The dog doesn't worry about the future; they are entirely focused on the scent of the leaves and the snap of the twig. Walking alongside them invites us into that same present moment, syncing our breath with the rustling trees and the steady beat of paws on the path.",
-    "photo": null,
-    "video": "walking_dog_in_forest_during_autumn.mp4",
-    "tags": ["NATURE", "WALKING", "SEASONAL", "SENSORY", "COMPANIONSHIP", "MINDFULNESS"]
-  },
-  {
-    "id": "joy_40",
-    "title": "The Scent of Home",
-    "description": "Baking is an act of architecture—building a sense of home through scent and taste. When the aroma of a cake baking fills the air, the house instantly feels warmer and more welcoming. It is a tangible way to say 'I love you' to your family, creating a memory that will forever be linked to the feeling of safety.",
-    "photo": null,
-    "video": "woman_baking_sweet_cake.mp4",
-    "tags": ["CREATIVITY", "COMFORT", "SENSORY", "TASTING", "HOME", "LOVE"]
-  },
-  {
-    "id": "joy_41",
-    "title": "Surrender to the Beat",
-    "description": "Dancing is one of the oldest forms of human expression, a way to release what cannot be spoken. On the dance floor, we get out of our heads and into our bodies, shaking off the rigidity of daily life. It is a celebration of vitality, a moment where we are allowed to be messy, loud, and entirely free.",
-    "photo": null,
-    "video": "woman_dancing_at_disco_club.mp4",
-    "tags": ["MOVEMENT", "SIMPLE", "SENSORY", "FREEDOM", "JOY", "RELEASE"]
-  },
-  {
-    "id": "joy_42",
-    "title": "Awakening the Body",
-    "description": "Stretching is a conversation with your own body, a gentle inquiry into where you are holding tension. By lengthening our muscles and expanding our breath, we create physical space for the day ahead. It is a practice of kindness, acknowledging that our bodies work hard for us and deserve to be tended to with softness.",
-    "photo": null,
-    "video": "woman_doing_stretching_exercises.mp4",
-    "tags": ["MOVEMENT", "MORNING", "SIMPLE", "SELF_CARE", "HEALTH", "MINDFULNESS"]
-  },
-  {
-    "id": "joy_43",
-    "title": "Liquid Clarity",
-    "description": "Hydration is the most basic act of self-respect. Drinking lemon water in the quiet morning light is a cleansing ritual, flushing out the old to make way for the new. It is a small, deliberate choice that sets a tone of health and clarity for everything that follows.",
-    "photo": null,
-    "video": "woman_drinking_lemon_water_in_kitchen.mp4",
-    "tags": ["TASTING", "MORNING", "SIMPLE", "SENSORY", "HEALTH", "RITUAL"]
-  },
-  {
-    "id": "joy_44",
-    "title": "The Meditation of Dough",
-    "description": "There are few things as tactile and grounding as kneading bread. It requires a rhythm—push, turn, fold—that calms the nervous system and brings the mind into the hands. This simple, ancient process reminds us that good things take time, effort, and a little bit of warmth to rise.",
-    "photo": null,
-    "video": "woman_kneading_bread_dough.mp4",
-    "tags": ["SENSORY", "CREATIVITY", "COMFORT", "RITUAL", "PATIENCE", "GROUNDING"]
-  },
-  {
-    "id": "joy_45",
-    "title": "The Sanctuary of Solitude",
-    "description": "To sit quietly with a book and a warm drink is to reclaim your time from the demands of the world. It is a protective bubble where you are required to do nothing but enjoy. In these stolen moments of coziness, we refill our inner wells so that we have something left to give.",
-    "photo": null,
-    "video": "woman_reading_book_with_hot_drink.mp4",
-    "tags": ["COMFORT", "SOLITUDE", "READING", "SENSORY", "REST", "PEACE"]
-  },
-  {
-    "id": "joy_46",
-    "title": "Tending to Life",
-    "description": "Gardening, even on a small scale, connects us to the cycles of life and death, growth and dormancy. Repotting a plant is an act of hope—believing that with a little new soil and care, things will flourish. It teaches us that we, too, sometimes need to change our environment in order to grow.",
-    "photo": null,
-    "video": "woman_repotting_small_plants.mp4",
-    "tags": ["NATURE", "SIMPLE", "SENSORY", "GROWTH", "CARE", "HOME"]
-  },
-  {
-    "id": "joy_47",
-    "title": "Running with the Horizon",
-    "description": "Running by the sea combines the internal rhythm of the breath with the external rhythm of the tides. The vastness of the horizon pulls us forward, making our physical effort feel small and manageable. It is a powerful way to clear the mental clutter, leaving only the sound of footsteps and the salt air.",
-    "photo": null,
-    "video": "woman_running_on_cliff_by_the_sea.mp4",
-    "tags": ["MOVEMENT", "NATURE", "SOLITUDE", "FREEDOM", "ENERGY", "CLARITY"]
-  },
-  {
-    "id": "joy_48",
-    "title": "Touching the Earth",
-    "description": "We spend so much time separated from nature by concrete and shoes. To walk through a field and let your hands brush the grain is to re-establish a physical connection with the land that sustains us. It is a grounding sensory experience that reminds us we are organic beings living in a living world.",
-    "photo": null,
-    "video": "woman_walking_through_wheat_field_touching_grain.mp4",
-    "tags": ["SENSORY", "NATURE", "WALKING", "SOLITUDE", "GROUNDING", "PEACE"]
-  },
-  {
-    "id": "joy_49",
-    "title": "The Promise of Departure",
-    "description": "Airports are liminal spaces, thresholds between who we are and who we might become. Walking with a suitcase holds the thrill of the unknown and the promise of new experiences. It wakes up our senses, forcing us out of autopilot and inviting us to look at the world with fresh, curious eyes.",
-    "photo": null,
-    "video": "woman_walking_with_suitcase_at_airport.mp4",
-    "tags": ["MOVEMENT", "SIMPLE", "TRAVEL", "ADVENTURE", "CURIOSITY", "ANTICIPATION"]
-  },
-  {
-    "id": "joy_50",
-    "title": "The Art of Giving",
-    "description": "Wrapping a gift is a meditation on the person receiving it. The care taken with the paper and the ribbon is a silent message of love, building anticipation for the moment of exchange. It shifts our focus from getting to giving, reminding us that generosity is one of the surest paths to happiness.",
-    "photo": null,
-    "video": "wrapping_a_gift_box_for_christmas_holidays.mp4",
-    "tags": ["CREATIVITY", "SEASONAL", "CONNECTION", "GENEROSITY", "LOVE", "RITUAL"]
-  },
-  {
-    "id": "joy_51",
-    "title": "Stillness in Motion",
-    "description": "Practicing yoga against a city skyline highlights the power of finding inner calm amidst external chaos. It proves that peace is not a place you go to, but a state you create within yourself. By grounding through the breath, we can remain steady and centered, no matter how fast the world spins around us.",
-    "photo": null,
-    "video": "yoga_stretching_with_city_view.mp4",
-    "tags": ["MOVEMENT", "SOLITUDE", "SIMPLE", "MINDFULNESS", "BALANCE", "CITY_LIFE"]
-  },
-  {
-    "id": "joy_52",
-    "title": "Walking Into Light",
-    "description": "Walking toward the sunset is a powerful metaphor for ending a journey well. As the backpack rests heavy on the shoulders, the golden light ahead promises rest and arrival. It reminds us that every long trek has its beautiful conclusion, and that moving forward—even when tired—is an act of hope.",
-    "photoUrl": null,
-    "videoUrl": "man_walking_with_a_backpack_towards_the_sunset.mp4",
-    "tags": ["NATURE", "WALKING", "SOLITUDE", "EVENING", "HOPE", "JOURNEY"]
-  }
-]
+{
+  "version": "1.0",
+  "joys": [
+    {
+      "id": "joy_01",
+      "title": "The Art of Flow",
+      "description": "Creativity is not about the final masterpiece; it is about the quiet sanctuary of the process itself. When we engage our hands in making, the noise of the world fades into the background, replaced by a rhythmic focus that heals the weary mind. It is a reminder that we all have the power to bring something new and beautiful into existence, simply by showing up and beginning.",
+      "photo": null,
+      "video": "artist_painting_on_canvas.mp4",
+      "tags": [
+        "CREATIVITY",
+        "SENSORY",
+        "SOLITUDE",
+        "FLOW",
+        "MINDFULNESS",
+        "SIMPLE"
+      ]
+    },
+    {
+      "id": "joy_02",
+      "title": "A Ritual of Renewal",
+      "description": "There is a profound, understated comfort in the act of being cared for by another. Sitting in the chair, feeling the weight of the cape and the methodical snip of scissors, we are allowed to simply be still. It is a moment of trust and transformation, where shedding the old layers leaves us feeling lighter, fresher, and ready to face the world again.",
+      "photo": null,
+      "video": "back_view_of_a_man_getting_a_haircut.mp4",
+      "tags": [
+        "RITUAL",
+        "COMFORT",
+        "SIMPLE",
+        "SENSORY",
+        "TRUST",
+        "SELF_CARE"
+      ]
+    },
+    {
+      "id": "joy_03",
+      "title": "The Power of Flow",
+      "description": "Nature moves with a relentless, effortless energy that demands nothing from us but our witness. Standing before moving water, our own internal chatter is drowned out by a sound that has existed for millennia. It reminds us that life, too, is a constant current—sometimes turbulent, sometimes smooth, but always moving forward, carrying us exactly where we need to go.",
+      "photo": null,
+      "video": "beautiful_waterfall_flowing_in_a_green_forest.mp4",
+      "tags": [
+        "NATURE",
+        "SENSORY",
+        "SOLITUDE",
+        "AWE",
+        "PERSPECTIVE",
+        "PEACE"
+      ]
+    },
+    {
+      "id": "joy_04",
+      "title": "The Thrill of Action",
+      "description": "There is a purity in sport that connects us deeply to our physical selves. In the split second before action, the mind goes blank, and instinct takes over. It is a celebration of what the body can do, a fleeting moment where focus, strength, and intention align perfectly to create a sense of absolute aliveness.",
+      "photo": null,
+      "video": "boy_kicking_penalty_shot_soccer.mp4",
+      "tags": [
+        "MOVEMENT",
+        "SIMPLE",
+        "SENSORY",
+        "FOCUS",
+        "PLAY",
+        "ENERGY"
+      ]
+    },
+    {
+      "id": "joy_05",
+      "title": "Weightless Freedom",
+      "description": "Do you remember the feeling of trying to touch the sky with your toes? Swinging is a return to a simpler time, a physical memory of freedom that lives in all of us. The rhythmic rise and fall calms the nervous system, while the rush of wind against the face whispers that, for just a moment, we can fly above it all.",
+      "photo": null,
+      "video": "boy_swinging_on_a_swing.mp4",
+      "tags": [
+        "NOSTALGIA",
+        "MOVEMENT",
+        "SIMPLE",
+        "FREEDOM",
+        "JOY",
+        "PLAY"
+      ]
+    },
+    {
+      "id": "joy_06",
+      "title": "The First Sip",
+      "description": "The morning coffee ritual is the anchor of the day, a small, controllable moment of luxury before the demands of life begin. It engages every sense—the warmth of the ceramic, the dark swirl of the liquid, the rich aroma rising in the steam. It is a permission slip to pause, breathe, and gather your thoughts before stepping into the arena of the day.",
+      "photo": null,
+      "video": "brewing_fresh_coffee.mp4",
+      "tags": [
+        "RITUAL",
+        "MORNING",
+        "SENSORY",
+        "TASTING",
+        "COMFORT",
+        "SLOW_LIVING"
+      ]
+    },
+    {
+      "id": "joy_07",
+      "title": "The Ancient Hearth",
+      "description": "Since the dawn of time, humans have gathered around the fire to find safety, warmth, and connection. The dancing flames have a hypnotic quality that draws out our stories and softens our defenses. In the glow of the firelight, silence becomes comfortable, and we are reminded that we are part of a long lineage of people seeking light in the darkness.",
+      "photo": null,
+      "video": "campfire_burning_at_night.mp4",
+      "tags": [
+        "NATURE",
+        "CONNECTION",
+        "EVENING",
+        "COMFORT",
+        "WARMTH",
+        "PRIMAL"
+      ]
+    },
+    {
+      "id": "joy_08",
+      "title": "Ascending the Stone",
+      "description": "Climbing is a dialogue between human will and the stubborn permanence of the earth. It demands total presence; you cannot worry about tomorrow when you are searching for a foothold for today. This singular focus clears the mind completely, replacing anxiety with the raw, tangible satisfaction of overcoming an obstacle through your own strength.",
+      "photo": null,
+      "video": "climbing_boulders_rock_climbing.mp4",
+      "tags": [
+        "MOVEMENT",
+        "NATURE",
+        "SOLITUDE",
+        "FOCUS",
+        "RESILIENCE",
+        "CHALLENGE"
+      ]
+    },
+    {
+      "id": "joy_09",
+      "title": "Twilight Connection",
+      "description": "As the sun dips below the horizon, the world softens, and so do we. Sharing a drink at the end of the day is a universal gesture of gratitude—a way of saying, 'We made it through.' It is a time to put down the armor of the day, lean in close, and let the warmth of connection mirror the fading warmth of the sun.",
+      "photo": null,
+      "video": "couple_hugging_drinking_wine.mp4",
+      "tags": [
+        "CONNECTION",
+        "EVENING",
+        "TASTING",
+        "ROMANTIC",
+        "GRATITUDE",
+        "CELEBRATION"
+      ]
+    },
+    {
+      "id": "joy_10",
+      "title": "Holding the Past",
+      "description": "In an age of scrolling screens, holding a physical photograph feels like an act of reverence. These frozen moments are tangible proof of love, laughter, and lives lived fully. Sharing them with someone else bridges the gap between who we were and who we are, weaving our individual histories into a shared tapestry of memory.",
+      "photo": null,
+      "video": "couple_looking_at_printed_photos_together.mp4",
+      "tags": [
+        "NOSTALGIA",
+        "CONNECTION",
+        "SIMPLE",
+        "MEMORY",
+        "FAMILY",
+        "STORYTELLING"
+      ]
+    },
+    {
+      "id": "joy_11",
+      "title": "The Rhythm of the Road",
+      "description": "There is a meditative quality to cycling—the steady rotation of the legs, the wind rushing past, the landscape unfolding at a human pace. It is a way of moving through the world that feels both active and peaceful. On two wheels, we are not just observers of the scenery; we are participants in it, feeling every hill and breeze.",
+      "photo": null,
+      "video": "cycling_through_fields_with_woman.mp4",
+      "tags": [
+        "MOVEMENT",
+        "NATURE",
+        "SIMPLE",
+        "FREEDOM",
+        "EXPLORATION",
+        "JOY"
+      ]
+    },
+    {
+      "id": "joy_12",
+      "title": "Weaving Tradition",
+      "description": "Decorating is not just about aesthetics; it is an act of anticipation and hope. Unpacking ornaments is like greeting old friends, each one holding a story of holidays past. This ritual marks the passage of time, transforming our ordinary living spaces into sanctuaries of light, color, and festive magic.",
+      "photo": null,
+      "video": "decorating_a_christmas_tree_with_ornaments.mp4",
+      "tags": [
+        "SEASONAL",
+        "RITUAL",
+        "NOSTALGIA",
+        "CREATIVITY",
+        "HOME",
+        "JOY"
+      ]
+    },
+    {
+      "id": "joy_13",
+      "title": "Comfort on a Plate",
+      "description": "Sometimes, joy is as simple as a warm meal prepared with care. Comfort food speaks a language that bypasses the mind and goes straight to the soul, offering a sense of safety and satisfaction. It reminds us that pleasure is not something to be guilty about, but a necessary nutrient for a well-lived life.",
+      "photo": null,
+      "video": "delicious_pizza_closeup.mp4",
+      "tags": [
+        "TASTING",
+        "COMFORT",
+        "SIMPLE",
+        "INDULGENCE",
+        "SENSORY"
+      ]
+    },
+    {
+      "id": "joy_14",
+      "title": "The Third Place",
+      "description": "We all need a 'third place'—somewhere that isn't work and isn't home—where we can just be. The clinking of glasses and the hum of conversation provide a backdrop for authentic connection. Here, burdens are shared, laughter is louder, and the simple act of presence strengthens the bonds of friendship.",
+      "photo": null,
+      "video": "drinking_beer_with_friend_in_pub.mp4",
+      "tags": [
+        "FRIENDS",
+        "CONNECTION",
+        "TASTING",
+        "COMMUNITY",
+        "RELAXATION"
+      ]
+    },
+    {
+      "id": "joy_15",
+      "title": "Solitude in the Crowd",
+      "description": "There is a unique pleasure in being alone in a public place, watching the theater of the city unfold from behind a steaming cup. It is solitude without loneliness—a feeling of being connected to the pulse of humanity while safely nestled in your own private moment of observation and reflection.",
+      "photo": null,
+      "video": "drinking_coffee_in_city_cafe.mp4",
+      "tags": [
+        "SOLITUDE",
+        "TASTING",
+        "SIMPLE",
+        "CITY_LIFE",
+        "OBSERVATION",
+        "MINDFULNESS"
+      ]
+    },
+    {
+      "id": "joy_16",
+      "title": "Infinite Horizon",
+      "description": "The ocean puts everything into perspective. Looking out at the endless blue and the rhythmic crash of waves, our personal anxieties seem to shrink. The sea breathes for us when we forget how, reminding us of the vastness of the world and the beautiful insignificance of our daily worries.",
+      "photo": null,
+      "video": "drone_view_of_sandy_beach.mp4",
+      "tags": [
+        "NATURE",
+        "SENSORY",
+        "SOLITUDE",
+        "AWE",
+        "PERSPECTIVE",
+        "CALM"
+      ]
+    },
+    {
+      "id": "joy_17",
+      "title": "Honoring the Material",
+      "description": "In a world of mass production, working with one's hands is a radical act of slow care. Feeling the grain, smelling the sawdust, and shaping something durable connects us to an ancient human lineage of makers. It teaches us patience, respect for materials, and the deep satisfaction of creating something that lasts.",
+      "photo": null,
+      "video": "elderly_carpenter_working_with_wood_in_a_workshop.mp4",
+      "tags": [
+        "CREATIVITY",
+        "SENSORY",
+        "RITUAL",
+        "CRAFTSMANSHIP",
+        "PATIENCE",
+        "FOCUS"
+      ]
+    },
+    {
+      "id": "joy_18",
+      "title": "Steps Taken Together",
+      "description": "A walk in nature is the best medicine for a family. Without the distraction of screens or chores, conversations can meander as freely as the path. It is in these quiet, side-by-side moments that the deepest bonds are forged, grounded in the simple rhythm of moving forward together.",
+      "photo": null,
+      "video": "family_walking_together_in_nature.mp4",
+      "tags": [
+        "FAMILY",
+        "NATURE",
+        "WALKING",
+        "CONNECTION",
+        "PEACE",
+        "BONDING"
+      ]
+    },
+    {
+      "id": "joy_19",
+      "title": "Greeting the Day",
+      "description": "The act of opening a window is more than just ventilation; it is an invitation. By letting the fresh air in, we clear out the stagnant energy of yesterday and welcome the possibilities of the new morning. It is a momentary communion with the outside world, a deep breath that says, 'I am here, and I am ready.'",
+      "photo": null,
+      "video": "girl_opening_window_with_countryside_view.mp4",
+      "tags": [
+        "NATURE",
+        "MORNING",
+        "SENSORY",
+        "FRESHNESS",
+        "RENEWAL",
+        "HOPE"
+      ]
+    },
+    {
+      "id": "joy_20",
+      "title": "The Joy of Learning",
+      "description": "Learning is not just for the young; it is a lifelong state of curiosity. Whether studying a text or mixing paints, engaging the mind alongside a friend turns effort into play. These moments of shared focus and discovery remind us that we are always growing, always evolving, and never have to do it alone.",
+      "photo": null,
+      "video": "girls_studying_and_painting_together.mp4",
+      "tags": [
+        "FRIENDS",
+        "LEARNING",
+        "CREATIVITY",
+        "GROWTH",
+        "CONNECTION",
+        "PLAY"
+      ]
+    },
+    {
+      "id": "joy_21",
+      "title": "Golden Hour Reflection",
+      "description": "There is a specific quality of light at sunset that makes everything look softer, warmer, and more forgiving. Sitting with a glass of wine in this glow is an act of savoring the transition. It is a time to reflect on the day with gratitude and prepare the mind for the rest that the night promises.",
+      "photo": null,
+      "video": "glass_of_wine_with_sunset_sea_view.mp4",
+      "tags": [
+        "EVENING",
+        "NATURE",
+        "TASTING",
+        "SOLITUDE",
+        "REFLECTION",
+        "BEAUTY"
+      ]
+    },
+    {
+      "id": "joy_22",
+      "title": "The Refuge of Play",
+      "description": "We often dismiss gaming as distraction, but it can be a vital form of decompression. Immersing oneself in a digital world offers a safe space to solve problems, achieve mastery, and temporarily set aside the complexities of real life. It is a modern form of play that allows the adult mind to rest by engaging in a different kind of focus.",
+      "photo": null,
+      "video": "guy_playing_video_games_on_console.mp4",
+      "tags": [
+        "SIMPLE",
+        "SOLITUDE",
+        "COMFORT",
+        "PLAY",
+        "REST",
+        "FOCUS"
+      ]
+    },
+    {
+      "id": "joy_23",
+      "title": "Sweet Simplicity",
+      "description": "To eat an ice cream cone is to be completely in the moment—you have to pay attention before it melts. It evokes a visceral nostalgia for childhood summers, reminding us that the best pleasures in life are often fleeting, messy, and incredibly sweet. It is a small celebration of now.",
+      "photo": null,
+      "video": "little_girl_eating_ice_cream.mp4",
+      "tags": [
+        "TASTING",
+        "SIMPLE",
+        "NOSTALGIA",
+        "JOY",
+        "SUMMER",
+        "CHILDHOOD"
+      ]
+    },
+    {
+      "id": "joy_24",
+      "title": "Roots and Legacy",
+      "description": "Looking at the faces of those who came before us is a grounding experience. It places us within a larger narrative, reminding us that we are the continuation of a story that started long ago. In their eyes, we see reflections of ourselves, and in their history, we find the strength of our own roots.",
+      "photo": null,
+      "video": "looking_at_old_grandparent_photos.mp4",
+      "tags": [
+        "NOSTALGIA",
+        "FAMILY",
+        "CONNECTION",
+        "HISTORY",
+        "IDENTITY",
+        "LOVE"
+      ]
+    },
+    {
+      "id": "joy_25",
+      "title": "Alchemy of the Kitchen",
+      "description": "Baking is a kind of everyday magic—taking simple, humble ingredients and transforming them into something golden and nourishing. It requires patience, precision, and a willingness to get your hands messy. The kitchen becomes a sanctuary where we can create warmth and sustenance for the people we love.",
+      "photo": null,
+      "video": "man_baking_pastry_in_kitchen.mp4",
+      "tags": [
+        "CREATIVITY",
+        "COMFORT",
+        "SENSORY",
+        "HOME",
+        "GIVING",
+        "PATIENCE"
+      ]
+    },
+    {
+      "id": "joy_26",
+      "title": "Iron Therapy",
+      "description": "There is clarity in the iron. When life feels complicated and abstract, lifting weight is simple, tangible, and true. The resistance we face in the gym builds more than just muscle; it builds the mental resilience to handle the heavy loads we carry in our daily lives. It is an act of honoring the vessel we live in.",
+      "photo": null,
+      "video": "man_chest_workout_with_dumbbells.mp4",
+      "tags": [
+        "MOVEMENT",
+        "SOLITUDE",
+        "SIMPLE",
+        "STRENGTH",
+        "DISCIPLINE",
+        "SELF_CARE"
+      ]
+    },
+    {
+      "id": "joy_27",
+      "title": "Moving Meditation",
+      "description": "Cardio is often where the mind finally untangles itself. The rhythmic, repetitive motion of running allows thoughts to drift, process, and settle. It is a physical flushing out of stress, leaving behind a clearer head and a calmer heart. In the sweat and the breath, we find a reset button.",
+      "photo": null,
+      "video": "man_doing_cardio_on_treadmill.mp4",
+      "tags": [
+        "MOVEMENT",
+        "SOLITUDE",
+        "SIMPLE",
+        "CLARITY",
+        "STRESS_RELIEF",
+        "HEALTH"
+      ]
+    },
+    {
+      "id": "joy_28",
+      "title": "A Moment of Care",
+      "description": "In our busy lives, we rarely sit still and let someone else take care of us. The barbershop offer a rare, masculine form of nurturing—a place of ritual, conversation, and quiet attention. It is a reminder that we all deserve moments where we can put our responsibilities down and simply receive care.",
+      "photo": null,
+      "video": "man_getting_a_haircut_at_a_barbershop.mp4",
+      "tags": [
+        "RITUAL",
+        "COMFORT",
+        "SIMPLE",
+        "SELF_CARE",
+        "GROOMING",
+        "TRUST"
+      ]
+    },
+    {
+      "id": "joy_29",
+      "title": "Nourishing Bonds",
+      "description": "The kitchen is the heart of the home, and preparing food together is its heartbeat. Making juice is not just about the vitamins; it is about the laughter, the mess, and the shared activity. These small, cooperative moments teach children that health is joyful and that love often looks like peeling an orange together.",
+      "photo": null,
+      "video": "mother_making_fresh_juice_with_daughter.mp4",
+      "tags": [
+        "FAMILY",
+        "TASTING",
+        "CREATIVITY",
+        "HEALTH",
+        "BONDING",
+        "JOY"
+      ]
+    },
+    {
+      "id": "joy_30",
+      "title": "The Contrast of Comfort",
+      "description": "There is nothing quite like the sensation of heat in a frozen landscape. It wakes up every nerve ending, highlighting the exquisite contrast between the biting air and the soothing water. This experience reminds us that comfort is sweetest when we have known the cold, and that peace can be found even in the harshest environments.",
+      "photo": null,
+      "video": "outdoor_thermal_bath_in_winter.mp4",
+      "tags": [
+        "SENSORY",
+        "NATURE",
+        "SEASONAL",
+        "COMFORT",
+        "CONTRAST",
+        "WELLNESS"
+      ]
+    },
+    {
+      "id": "joy_31",
+      "title": "Preparing for Rest",
+      "description": "The ritual of drawing a bath is a signal to the body that the working day is done. The sound of running water, the rising steam, and the scent of bubbles create a sensory bridge from 'doing' to 'being.' It is an act of deliberate deceleration, creating a private space where the only goal is to soften.",
+      "photo": null,
+      "video": "preparing_bubble_bath.mp4",
+      "tags": [
+        "COMFORT",
+        "RITUAL",
+        "EVENING",
+        "SENSORY",
+        "SELF_CARE",
+        "CALM"
+      ]
+    },
+    {
+      "id": "joy_32",
+      "title": "Worlds Within Pages",
+      "description": "A book is a portable magic that allows us to live a thousand lives. In the quiet companionship of a story, we find empathy, adventure, and understanding without ever leaving our chair. It forces us to slow down and focus on one thing, a rare and precious discipline in a fragmented world.",
+      "photo": null,
+      "video": "reading_a_book_closeup.mp4",
+      "tags": [
+        "SOLITUDE",
+        "LEARNING",
+        "SIMPLE",
+        "IMAGINATION",
+        "QUIET",
+        "FOCUS"
+      ]
+    },
+    {
+      "id": "joy_33",
+      "title": "The Voice of Love",
+      "description": "Reading to a child is one of the most intimate forms of connection. It is not just about the story; it is about the physical closeness, the sound of a parent's voice, and the shared journey into imagination. These moments build a foundation of safety and wonder that a child carries with them long after the book is closed.",
+      "photo": null,
+      "video": "reading_book_to_child.mp4",
+      "tags": [
+        "FAMILY",
+        "RITUAL",
+        "EVENING",
+        "CONNECTION",
+        "LOVE",
+        "STORYTELLING"
+      ]
+    },
+    {
+      "id": "joy_34",
+      "title": "Submerged Serenity",
+      "description": "To submerge yourself in water is to return to a primal state of safety. The weightlessness relieves the pressure on our joints, just as the silence relieves the pressure on our minds. In the bath, time seems to suspend, allowing us to wash away not just the dirt, but the emotional residue of the day.",
+      "photo": null,
+      "video": "relaxing_bath_in_bathtub.mp4",
+      "tags": [
+        "COMFORT",
+        "SOLITUDE",
+        "SENSORY",
+        "RELAXATION",
+        "PEACE",
+        "WATER"
+      ]
+    },
+    {
+      "id": "joy_35",
+      "title": "Evening Gratitude",
+      "description": "The transition from day to night is a sacred threshold. Sharing it with a partner, glass in hand, turns a daily occurrence into a moment of celebration. It is a time to look at the person beside you and appreciate that, in this vast and turning world, you have found someone to witness the sunset with.",
+      "photo": null,
+      "video": "romantic_couple_drinking_wine_at_sunset.mp4",
+      "tags": [
+        "CONNECTION",
+        "ROMANTIC",
+        "EVENING",
+        "TASTING",
+        "GRATITUDE",
+        "INTIMACY"
+      ]
+    },
+    {
+      "id": "joy_36",
+      "title": "Above the Noise",
+      "description": "There is something magical about rooftops at night—the city lights below look like stars, and the noise of the streets hums like a distant ocean. Standing there with someone you love offers a new perspective: you are part of the world, yet held apart in your own private sanctuary. It is a moment of clarity and romance amidst the chaos.",
+      "photo": null,
+      "video": "romantic_rooftop_scene_in_city_at_night.mp4",
+      "tags": [
+        "ROMANTIC",
+        "EVENING",
+        "CONNECTION",
+        "CITY_LIFE",
+        "PERSPECTIVE",
+        "AWE"
+      ]
+    },
+    {
+      "id": "joy_37",
+      "title": "Unbound Joy",
+      "description": "Watch children run, and you see pure, unadulterated instinct. They don't run for fitness; they run because it feels good to move, to be fast, to be alive. Witnessing this boundless energy reminds us to reconnect with our own inner child—to find reasons to move that are rooted in joy rather than obligation.",
+      "photo": null,
+      "video": "siblings_running_joyfully_across_a_field_in_the_countryside.mp4",
+      "tags": [
+        "FAMILY",
+        "NATURE",
+        "MOVEMENT",
+        "JOY",
+        "PLAY",
+        "FREEDOM"
+      ]
+    },
+    {
+      "id": "joy_38",
+      "title": "Capturing the Spark",
+      "description": "Friendship is the family we choose, and time spent together is vital nourishment for the soul. Taking a photo is a way of saying, 'This moment matters.' It freezes the laughter and the light, creating a keepsake that we can return to whenever we need a reminder that we are loved and supported.",
+      "photo": null,
+      "video": "two_friends_taking_selfie_at_picnic.mp4",
+      "tags": [
+        "FRIENDS",
+        "NATURE",
+        "CONNECTION",
+        "MEMORY",
+        "JOY",
+        "COMMUNITY"
+      ]
+    },
+    {
+      "id": "joy_39",
+      "title": "Walking in Rhythm",
+      "description": "A walk in the woods with a dog is a lesson in presence. The dog doesn't worry about the future; they are entirely focused on the scent of the leaves and the snap of the twig. Walking alongside them invites us into that same present moment, syncing our breath with the rustling trees and the steady beat of paws on the path.",
+      "photo": null,
+      "video": "walking_dog_in_forest_during_autumn.mp4",
+      "tags": [
+        "NATURE",
+        "WALKING",
+        "SEASONAL",
+        "SENSORY",
+        "COMPANIONSHIP",
+        "MINDFULNESS"
+      ]
+    },
+    {
+      "id": "joy_40",
+      "title": "The Scent of Home",
+      "description": "Baking is an act of architecture—building a sense of home through scent and taste. When the aroma of a cake baking fills the air, the house instantly feels warmer and more welcoming. It is a tangible way to say 'I love you' to your family, creating a memory that will forever be linked to the feeling of safety.",
+      "photo": null,
+      "video": "woman_baking_sweet_cake.mp4",
+      "tags": [
+        "CREATIVITY",
+        "COMFORT",
+        "SENSORY",
+        "TASTING",
+        "HOME",
+        "LOVE"
+      ]
+    },
+    {
+      "id": "joy_41",
+      "title": "Surrender to the Beat",
+      "description": "Dancing is one of the oldest forms of human expression, a way to release what cannot be spoken. On the dance floor, we get out of our heads and into our bodies, shaking off the rigidity of daily life. It is a celebration of vitality, a moment where we are allowed to be messy, loud, and entirely free.",
+      "photo": null,
+      "video": "woman_dancing_at_disco_club.mp4",
+      "tags": [
+        "MOVEMENT",
+        "SIMPLE",
+        "SENSORY",
+        "FREEDOM",
+        "JOY",
+        "RELEASE"
+      ]
+    },
+    {
+      "id": "joy_42",
+      "title": "Awakening the Body",
+      "description": "Stretching is a conversation with your own body, a gentle inquiry into where you are holding tension. By lengthening our muscles and expanding our breath, we create physical space for the day ahead. It is a practice of kindness, acknowledging that our bodies work hard for us and deserve to be tended to with softness.",
+      "photo": null,
+      "video": "woman_doing_stretching_exercises.mp4",
+      "tags": [
+        "MOVEMENT",
+        "MORNING",
+        "SIMPLE",
+        "SELF_CARE",
+        "HEALTH",
+        "MINDFULNESS"
+      ]
+    },
+    {
+      "id": "joy_43",
+      "title": "Liquid Clarity",
+      "description": "Hydration is the most basic act of self-respect. Drinking lemon water in the quiet morning light is a cleansing ritual, flushing out the old to make way for the new. It is a small, deliberate choice that sets a tone of health and clarity for everything that follows.",
+      "photo": null,
+      "video": "woman_drinking_lemon_water_in_kitchen.mp4",
+      "tags": [
+        "TASTING",
+        "MORNING",
+        "SIMPLE",
+        "SENSORY",
+        "HEALTH",
+        "RITUAL"
+      ]
+    },
+    {
+      "id": "joy_44",
+      "title": "The Meditation of Dough",
+      "description": "There are few things as tactile and grounding as kneading bread. It requires a rhythm—push, turn, fold—that calms the nervous system and brings the mind into the hands. This simple, ancient process reminds us that good things take time, effort, and a little bit of warmth to rise.",
+      "photo": null,
+      "video": "woman_kneading_bread_dough.mp4",
+      "tags": [
+        "SENSORY",
+        "CREATIVITY",
+        "COMFORT",
+        "RITUAL",
+        "PATIENCE",
+        "GROUNDING"
+      ]
+    },
+    {
+      "id": "joy_45",
+      "title": "The Sanctuary of Solitude",
+      "description": "To sit quietly with a book and a warm drink is to reclaim your time from the demands of the world. It is a protective bubble where you are required to do nothing but enjoy. In these stolen moments of coziness, we refill our inner wells so that we have something left to give.",
+      "photo": null,
+      "video": "woman_reading_book_with_hot_drink.mp4",
+      "tags": [
+        "COMFORT",
+        "SOLITUDE",
+        "READING",
+        "SENSORY",
+        "REST",
+        "PEACE"
+      ]
+    },
+    {
+      "id": "joy_46",
+      "title": "Tending to Life",
+      "description": "Gardening, even on a small scale, connects us to the cycles of life and death, growth and dormancy. Repotting a plant is an act of hope—believing that with a little new soil and care, things will flourish. It teaches us that we, too, sometimes need to change our environment in order to grow.",
+      "photo": null,
+      "video": "woman_repotting_small_plants.mp4",
+      "tags": [
+        "NATURE",
+        "SIMPLE",
+        "SENSORY",
+        "GROWTH",
+        "CARE",
+        "HOME"
+      ]
+    },
+    {
+      "id": "joy_47",
+      "title": "Running with the Horizon",
+      "description": "Running by the sea combines the internal rhythm of the breath with the external rhythm of the tides. The vastness of the horizon pulls us forward, making our physical effort feel small and manageable. It is a powerful way to clear the mental clutter, leaving only the sound of footsteps and the salt air.",
+      "photo": null,
+      "video": "woman_running_on_cliff_by_the_sea.mp4",
+      "tags": [
+        "MOVEMENT",
+        "NATURE",
+        "SOLITUDE",
+        "FREEDOM",
+        "ENERGY",
+        "CLARITY"
+      ]
+    },
+    {
+      "id": "joy_48",
+      "title": "Touching the Earth",
+      "description": "We spend so much time separated from nature by concrete and shoes. To walk through a field and let your hands brush the grain is to re-establish a physical connection with the land that sustains us. It is a grounding sensory experience that reminds us we are organic beings living in a living world.",
+      "photo": null,
+      "video": "woman_walking_through_wheat_field_touching_grain.mp4",
+      "tags": [
+        "SENSORY",
+        "NATURE",
+        "WALKING",
+        "SOLITUDE",
+        "GROUNDING",
+        "PEACE"
+      ]
+    },
+    {
+      "id": "joy_49",
+      "title": "The Promise of Departure",
+      "description": "Airports are liminal spaces, thresholds between who we are and who we might become. Walking with a suitcase holds the thrill of the unknown and the promise of new experiences. It wakes up our senses, forcing us out of autopilot and inviting us to look at the world with fresh, curious eyes.",
+      "photo": null,
+      "video": "woman_walking_with_suitcase_at_airport.mp4",
+      "tags": [
+        "MOVEMENT",
+        "SIMPLE",
+        "TRAVEL",
+        "ADVENTURE",
+        "CURIOSITY",
+        "ANTICIPATION"
+      ]
+    },
+    {
+      "id": "joy_50",
+      "title": "The Art of Giving",
+      "description": "Wrapping a gift is a meditation on the person receiving it. The care taken with the paper and the ribbon is a silent message of love, building anticipation for the moment of exchange. It shifts our focus from getting to giving, reminding us that generosity is one of the surest paths to happiness.",
+      "photo": null,
+      "video": "wrapping_a_gift_box_for_christmas_holidays.mp4",
+      "tags": [
+        "CREATIVITY",
+        "SEASONAL",
+        "CONNECTION",
+        "GENEROSITY",
+        "LOVE",
+        "RITUAL"
+      ]
+    },
+    {
+      "id": "joy_51",
+      "title": "Stillness in Motion",
+      "description": "Practicing yoga against a city skyline highlights the power of finding inner calm amidst external chaos. It proves that peace is not a place you go to, but a state you create within yourself. By grounding through the breath, we can remain steady and centered, no matter how fast the world spins around us.",
+      "photo": null,
+      "video": "yoga_stretching_with_city_view.mp4",
+      "tags": [
+        "MOVEMENT",
+        "SOLITUDE",
+        "SIMPLE",
+        "MINDFULNESS",
+        "BALANCE",
+        "CITY_LIFE"
+      ]
+    },
+    {
+      "id": "joy_52",
+      "title": "Walking Into Light",
+      "description": "Walking toward the sunset is a powerful metaphor for ending a journey well. As the backpack rests heavy on the shoulders, the golden light ahead promises rest and arrival. It reminds us that every long trek has its beautiful conclusion, and that moving forward—even when tired—is an act of hope.",
+      "photoUrl": null,
+      "videoUrl": "man_walking_with_a_backpack_towards_the_sunset.mp4",
+      "tags": [
+        "NATURE",
+        "WALKING",
+        "SOLITUDE",
+        "EVENING",
+        "HOPE",
+        "JOURNEY"
+      ]
+    }
+  ]
+}
